@@ -24,6 +24,4 @@ El objetivo del proyecto es replicar las funcionalidades de un sitio web moderno
 - **Backend**: PHP  
 - **Base de datos**: MySQL  
 
-Este es un proyecto en desarrollo, y futuras actualizaciones incluirán más funcionalidades y un diseño mejorado.  
 
-¡Explora el repositorio y siéntete libre de contribuir! 🚀  
