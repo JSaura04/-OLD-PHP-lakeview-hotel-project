@@ -9,10 +9,6 @@ The goal of the project is to replicate the functionalities of a modern hotel we
 - **Backend**: PHP  
 - **Database**: MySQL  
 
-This is a work in progress, and future updates will include more features and an improved design.  
-
-Feel free to explore the repository and contribute! 🚀  
-
 # 🌟 Lakeview Hotel - Proyecto Web 
 
 Este repositorio contiene la base de **Lakeview Hotel**, un proyecto de gestión hotelera creado con **PHP** y **MySQL**.  
